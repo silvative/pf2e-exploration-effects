@@ -6,6 +6,8 @@ As Effects items, these will break on any system other than PF2E. I don't know w
 
 The effects do not need to be exported from compendiums to the actors tab. Instead, they can be dragged from the compendium to the macro bar. This will create a macro that will toggle the condition on a selected token when run. This is functionality provided by the core system. The only thing this module does is save you a few minutes of data entry.
 
+I recommend doing things this way because it avoids clogging up your items tab. While eight extra items won't cause a noticeable performance decrease, there's no benefit to clutter.
+
 **Automation:**
 
 Each effect includes no automation. This is because of the nature of these activities, which rely heavily on GM fiat and do not really take effect automatically. Instead, each one contains a link to the activity it relates to. You can send the effect to chat through your character sheet's effects tab to share this with other users.
