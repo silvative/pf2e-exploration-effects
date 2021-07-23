@@ -8,7 +8,7 @@
 	"compatibleCoreVersion": "0.8.8",
 	"url": "https://gitlab.com/silvative/pf2e-exploration-effects",
 	"manifest": "https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/module.json",
-	"download": "",
+	"download": "https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/package/pf2e-exploration-effects.zip",
 	"packs": [{
 		"name": "pf2e-exploration-effects",
 		"label": "PF2E Exploration Effects",
