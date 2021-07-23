@@ -14,13 +14,15 @@ Each effect includes no automation. This is because of the nature of these activ
 
 Another benefit of having no automation is that in theory these effects should work fine even after the core system begins automating these rules itself. This means that they should remain functional without needing updates up until they are rendered obsolete by system updates.
 
+Notably, the Defend activity is likely better served by an actual Raise Shield macro which provides AC automation, but I included it here because I wanted to be thorough.
+
 **Why aren't all exploration activities included?**
 
 This module only seeks to cover exploration activities which can be undertaken during travel. For instance, Treat Wounds or Refocus require you to tell your GM that you're stopping to take a break, and may also have rolls involved. Thus there's no reason to add an icon effect for them. However, with effects like Scout and Investigate, I find it's easy to forget to specify which one one is taking until it becomes relevant. 
 
 This module allows players to silently notify their GM which downtime activity they are taking at any moment without needing to interrupt the flow of the game or the conversation. It also keeps the rules references to these activities within easy reach. I find it is especially helpful for quiet players who may be nervous about potentially interrupting narration or conversation to tell their GM their activity. It also removes some of the pressure from the GM to remember each players' choices.
 
-I included an "unspecified" effect which can be used for on-the-fly activities or used as a template for creating new ones, although in reality this is quite trivial to do even without a template.
+The only absence is Squeeze, which I felt is not used for long enough periods of time to need an effect and moreover is only used in response to a specific hazard or environment. I did include an "unspecified" effect which can be used for on-the-fly activities or used as a template for creating new ones, although in reality this is quite trivial to do even without a template.
 
 **Licensing:**
 
