@@ -1,21 +1,19 @@
 {
-	"name": "pf2e-exploration-effects",
+	"name": "pf2e-exploration-effects-main",
 	"title": "PF2E Exploration Effects",
 	"description": "Adds a compendium containing preconfigured effects for tracking various exploration activities for Pathfinder 2E. The effects intentionally contain no automation and should be used for tracking purposes only.",
 	"author": "Cora",
 	"version": "1.0.0",
 	"minimumCoreVersion": "0.8.8",
 	"compatibleCoreVersion": "0.8.8",
-    "url": "https://gitlab.com/silvative/pf2e-exploration-effects",
+	"url": "https://gitlab.com/silvative/pf2e-exploration-effects",
 	"manifest": "https://gitlab.com/silvative/pf2e-exploration-effects/-/blob/main/module.json",
 	"download": "https://gitlab.com/silvative/pf2e-exploration-effects/-/archive/main/pf2e-exploration-effects-main.zip",
-	"packs": [
-	{
+	"packs": [{
 		"name": "pf2e-exploration-effects",
 		"label": "PF2E Exploration Effects",
 		"system": "pf2e",
 		"path": "./packs/pf2e-exploration-effects.db",
 		"entity": "Item"
-	}
-	]
+	}]
 }
