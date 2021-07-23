@@ -1,6 +1,7 @@
 **System compatability:**
 
 As Effects items, these will break on any system other than PF2E. I don't know why you'd try that, though.
+They should work on any version of the PF2E system which includes the Effect item type.
 
 **How to use:**
 
