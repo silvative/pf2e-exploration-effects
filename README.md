@@ -25,11 +25,18 @@ This module allows players to silently notify their GM which downtime activity t
 
 The only absence is Squeeze, which I felt is not used for long enough periods of time to need an effect and moreover is only used in response to a specific hazard or environment. I did include an "unspecified" effect which can be used for on-the-fly activities or used as a template for creating new ones, although in reality this is quite trivial to do even without a template.
 
-**Preview**
+**Preview:**
 
-[https://cdn.discordapp.com/attachments/816108729618661376/870007532247187486/unknown.png]
+The effects included with the module and their preconfigured icons.
 
+![Screenshot](https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/documentation/Preview1.png)
+
+A party exploring a dungeon, with effects showing their activities to the GM at a glance.
+
+![Screenshot](https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/documentation/Preview2.png)
 
 **Licensing:**
 
-The effects contain no rules content or artwork of their own. Instead they reference rules content and image assets which are already present within the Foundry system. The excellent maps in the preview pictures are from the very talented Narchy's remake of the Abomination Vaults maps, which can be found here: https://foundryvtt.com/packages/av-maps-remake-by-narchy
+The effects contain no rules content or artwork of their own. Instead they reference rules content and image assets which are already present within the Foundry system. 
+
+The excellent maps in the preview pictures are from the very talented Narchy's remake of the Abomination Vaults maps, which can be found [here](https://foundryvtt.com/packages/av-maps-remake-by-narchy).
