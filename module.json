@@ -5,7 +5,7 @@
 	"author": "Cora",
 	"version": "1.0.0",
 	"minimumCoreVersion": "0.8.8",
-	"compatibleCoreVersion": "0.8.8",
+	"compatibleCoreVersion": "0.8.9",
 	"url": "https://gitlab.com/silvative/pf2e-exploration-effects",
 	"manifest": "https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/module.json",
 	"download": "https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/package/pf2e-exploration-effects.zip",
