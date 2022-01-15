@@ -24,6 +24,6 @@
         }
     ],
     "url": "https://gitlab.com/silvative/pf2e-exploration-effects",
-	"manifest": "https://gitlab.com/silvative/pf2e-exploration-effects/-/blob/main/pf2e-exploration-effects/module.json",
+	"manifest": "https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/pf2e-exploration-effects/module.json",
 	"download": "https://gitlab.com/silvative/pf2e-exploration-effects/-/archive/main/pf2e-exploration-effects-main.zip"
 }
