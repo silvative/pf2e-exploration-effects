@@ -1,17 +1,21 @@
 **System compatability:**
 
-As Effects items, these will break on any system other than PF2E. I don't know why you'd try that, though.
-They should work on any version of the PF2E system which includes the Effect item type.
+The module requires the PF2E system and a Foundry version of V9 or higher.
 
 **How to use:**
 
-The effects do not need to be exported from compendiums to the items tab. Instead, they can be dragged from the compendium to the macro bar. This will create a macro that will toggle the condition on a selected token when run. This is functionality provided by the core system. The only thing this module does is save you a few minutes of data entry.
+The effects do not need to be exported from compendiums to the items tab. 
+Instead, there are two ways you can apply them to your characters.
+- Individual effects can be dragged from the compendium to the macro bar. This will create a macro that will toggle the condition on a selected token when run. This is functionality provided by the core system. Use the macro a second time to remove the effect.
+- Alternatively, you can use the provided Exploration Effects macro to open the compendium and drag one from there, allowing you to select any exploration activity while only using one macro slot. Remove the effect from the effects tab or the effects bar at the top right.
 
-I recommend doing things this way because it avoids clogging up your items tab. While eight extra items won't cause a noticeable performance decrease, there's no benefit to clutter. If you don't want to keep the module enabled, you can make a copy of the compendium to your world before you disable it to continue using the effects without needing to import them.
+The module also includes macros for several different types of light source. You can use them as templates, modifying the colour and animations to suit your character's flavour.
+
+If you don't want to keep the module enabled, you can make a copy of the compendiums to your world before you disable it to continue using the effects without needing to import them.
 
 **Automation:**
 
-Each effect includes no automation. This is because of the nature of these activities, which rely heavily on GM fiat and do not really take effect automatically. Instead, each one contains a link to the activity it relates to. You can send the effect to chat through your character sheet's effects tab to share this with other users.
+Each effect includes no automation. This is because of the nature of these activities, which rely heavily on GM fiat and do not really take effect automatically. Instead, each one contains a link to the activity it relates to. You can send the effect to chat through your character sheet's effects tab to share them with other users.
 
 Another benefit of having no automation is that in theory these effects should work fine even after the core system begins automating these rules itself. This means that they should remain functional without needing updates up until they are rendered obsolete by system updates.
 
