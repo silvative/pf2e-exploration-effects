@@ -16,13 +16,6 @@
 		"system": ["pf2e"],
 		"path": "./packs/pf2e-exploration-effects.db",
 		"entity": "Item"
-		},
-		{
-		"name": "pf2e-exploration-macros",
-		"label": "PF2E Exploration Macros",
-		"system": ["pf2e"],
-		"path": "./packs/pf2e-exploration-macros.db",
-		"entity": "Macro"
 		}
 	]
 }
