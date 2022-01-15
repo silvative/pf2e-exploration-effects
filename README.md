@@ -5,7 +5,7 @@ They should work on any version of the PF2E system which includes the Effect ite
 
 **How to use:**
 
-The effects do not need to be exported from compendiums to the actors tab. Instead, they can be dragged from the compendium to the macro bar. This will create a macro that will toggle the condition on a selected token when run. This is functionality provided by the core system. The only thing this module does is save you a few minutes of data entry.
+The effects do not need to be exported from compendiums to the items tab. Instead, they can be dragged from the compendium to the macro bar. This will create a macro that will toggle the condition on a selected token when run. This is functionality provided by the core system. The only thing this module does is save you a few minutes of data entry.
 
 I recommend doing things this way because it avoids clogging up your items tab. While eight extra items won't cause a noticeable performance decrease, there's no benefit to clutter. If you don't want to keep the module enabled, you can make a copy of the compendium to your world before you disable it to continue using the effects without needing to import them.
 

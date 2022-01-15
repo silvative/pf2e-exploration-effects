@@ -1,3 +1,9 @@
+Version 1.0.1
+
+- Updated version flags for V9 support
+- Preliminary preparations for macro compendium support
+- Added PF2E system dependency in module.json
+
 Version 1.0.0
 
 - Initial Release
