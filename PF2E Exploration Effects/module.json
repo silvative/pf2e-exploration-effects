@@ -23,7 +23,7 @@
             "type": "Macro"
         }
     ],
-    "url": "url",
-	"manifest": "manifest",
+    "url": "https://gitlab.com/silvative/pf2e-exploration-effects",
+	"manifest": "https://gitlab.com/silvative/pf2e-exploration-effects/-/blob/main/module.json",
 	"download": "download"
   }
