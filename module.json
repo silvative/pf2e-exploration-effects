@@ -9,7 +9,7 @@
 	"system": ["pf2e"],
 	"url": "https://gitlab.com/silvative/pf2e-exploration-effects",
 	"manifest": "https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/module.json",
-	"download": "https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/pf2e-exploration-effects.zip",
+	"download": "https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/packages/pf2e-exploration-effects.zip",
 	"packs": [{
 		"name": "pf2e-exploration-effects",
 		"label": "PF2E Exploration Effects",
