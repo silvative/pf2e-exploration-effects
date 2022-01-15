@@ -1,28 +1,29 @@
 {
-	"name": "pf2e-exploration-effects",
-	"title": "PF2E Exploration Effects",
-	"description": "Adds a compendium containing preconfigured effects for tracking various exploration activities for Pathfinder 2E.",
-	"author": "Cora",
-	"version": "1.0.1",
-	"minimumCoreVersion": "9",
-	"compatibleCoreVersion": "9",
-	"system": ["pf2e"],
-	"url": "https://gitlab.com/silvative/pf2e-exploration-effects",
-	"manifest": "https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/module.json",
-	"download": "https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/packages/pf2e-exploration-effects.zip",
-	"packs": [{
-		"name": "pf2e-exploration-effects",
-		"label": "PF2E Exploration Effects",
-		"system": ["pf2e"],
-		"path": "./packs/pf2e-exploration-effects.db",
-		"entity": "Item"
-		},
-		{
-		"name": "pf2e-exploration-macros",
-		"label": "PF2E Exploration Macros",
-		"system": ["pf2e"],
-		"path": "./packs/pf2e-exploration-macros.db",
-		"entity": "Macro"
-		}
-	]
-}
+    "name": "pf2e-exploration-effects",
+    "title": "PF2E Exploration Effects",
+    "description": "Adds a compendium containing various macros and effects for tracking exploration for Pathfinder 2E.",
+    "version": "1.1.0",
+    "author": "Cora",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "system": ["pf2e"],
+    "packs": [
+        {
+            "name": "exploration-effects",
+            "label": "PF2E Exploration Effects",
+            "path": "./packs/exploration-effects.db",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
+            "name": "exploration-macros",
+            "label": "PF2E Exploration Macros",
+            "path": "./packs/exploration-macros.db",
+            "entity": "Macro",
+            "type": "Macro"
+        }
+    ],
+    "url": "url",
+	"manifest": "manifest",
+	"download": "download"
+  }
