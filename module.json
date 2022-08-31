@@ -1,5 +1,6 @@
 {
     "id": "pf2e-exploration-effects",
+    "name": "pf2e-exploration-effects",
     "title": "PF2E Exploration Effects",
     "description": "Adds a compendium containing various macros and effects for tracking exploration for Pathfinder 2E.",
     "version": "2.1.0",
