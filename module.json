@@ -8,7 +8,6 @@
         "minimum": "9",
         "verified": "10"
     },
-    "system": ["pf2e"],
     "packs": [
         {
             "name": "exploration-effects",
@@ -26,7 +25,7 @@
             "type": "Macro"
         }
     ],
-    "url": "https://gitlab.com/silvative/pf2e-exploration-effects",
+    "url": "https://github.com/silvative/pf2e-exploration-effects",
 	"manifest": "https://raw.githubusercontent.com/silvative/pf2e-exploration-effects/master/module.json",
 	"download": "https://github.com/silvative/pf2e-exploration-effects/archive/refs/heads/master.zip"
 }
