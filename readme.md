@@ -33,11 +33,11 @@ The only absence is Squeeze, which I felt is not used for long enough periods of
 
 The effects included with the module and their preconfigured icons.
 
-![Screenshot](https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/documentation/Preview1.png)
+![Screenshot](https://github.com/silvative/pf2e-exploration-effects/-/raw/main/documentation/Preview1.png)
 
 A party exploring a dungeon, with effects showing their activities to the GM at a glance.
 
-![Screenshot](https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/documentation/Preview2.png)
+![Screenshot](https://githubb.com/silvative/pf2e-exploration-effects/-/raw/main/documentation/Preview2.png)
 
 **Licensing:**
 
