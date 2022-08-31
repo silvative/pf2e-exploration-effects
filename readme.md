@@ -33,11 +33,11 @@ The only absence is Squeeze, which I felt is not used for long enough periods of
 
 The effects included with the module and their preconfigured icons.
 
-![Screenshot](![image](https://user-images.githubusercontent.com/66365038/187703082-6c34aed4-22e2-4ebb-ba62-a6629e43b407.png))
+![image](https://user-images.githubusercontent.com/66365038/187703474-72197030-fc71-4e41-910d-6a512f6bf2a6.png)
 
 A party exploring a dungeon, with effects showing their activities to the GM at a glance.
 
-![Screenshot](![image](https://user-images.githubusercontent.com/66365038/187703135-f311f774-5c73-435e-9459-16fbfe93800c.png))
+![image](https://user-images.githubusercontent.com/66365038/187703537-60a56287-a1fc-418e-81c9-e5392c287452.png)
 
 **Licensing:**
 
