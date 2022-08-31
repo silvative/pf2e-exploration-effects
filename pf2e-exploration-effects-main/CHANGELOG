@@ -1,0 +1,20 @@
+Version 2.0.1
+
+- Fixed issues with contrast on lighting macros
+- Fixed show art macro being set as chat instead of script
+
+Version 2.0.0
+
+- Exploration Effect macro which opens the compendium to allow choosing an activity with a single macro slot (Courtesy of Drental)
+- "Show Art" macro
+- Macros for various light sources (Modified from a macro written by Stwlam)
+
+Version 1.0.1
+
+- Updated version flags for V9 support
+- Preliminary preparations for macro compendium support
+- Added PF2E system dependency in module.json
+
+Version 1.0.0
+
+- Initial Release
