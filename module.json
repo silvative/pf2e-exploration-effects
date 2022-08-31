@@ -1,11 +1,13 @@
 {
-    "name": "pf2e-exploration-effects",
+    "id": "pf2e-exploration-effects",
     "title": "PF2E Exploration Effects",
     "description": "Adds a compendium containing various macros and effects for tracking exploration for Pathfinder 2E.",
-    "version": "2.0.1",
+    "version": "2.1.0",
     "author": "Cora",
-    "minimumCoreVersion": "9",
-    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": "9",
+        "verified": "10"
+    },
     "system": ["pf2e"],
     "packs": [
         {
@@ -13,6 +15,7 @@
             "label": "PF2E Exploration Effects",
             "path": "./packs/exploration-effects.db",
             "entity": "Item",
+            "system": "pf2e",
             "type": "Item"
         },
         {
