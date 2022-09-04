@@ -24,6 +24,6 @@
         }
     ],
     "url": "https://github.com/silvative/pf2e-exploration-effects",
-	"manifest": "https://github.com/silvative/pf2e-exploration-effects/releases/download/v9-closing/module.json",
+	"manifest": "https://raw.githubusercontent.com/silvative/pf2e-exploration-effects/V9-Closing/module.json",
 	"download": "https://github.com/silvative/pf2e-exploration-effects/archive/refs/heads/V9-Closing.zip"
 }
