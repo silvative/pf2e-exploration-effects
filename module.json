@@ -2,7 +2,7 @@
     "name": "pf2e-exploration-effects",
     "title": "PF2E Exploration Effects",
     "description": "Adds a compendium containing various macros and effects for tracking exploration for Pathfinder 2E.",
-    "version": "2.0.1",
+    "version": "2.1.0",
     "author": "Cora",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
@@ -23,7 +23,7 @@
             "type": "Macro"
         }
     ],
-    "url": "https://gitlab.com/silvative/pf2e-exploration-effects",
-	"manifest": "https://gitlab.com/silvative/pf2e-exploration-effects/-/raw/main/pf2e-exploration-effects/module.json",
-	"download": "https://gitlab.com/silvative/pf2e-exploration-effects/-/archive/main/pf2e-exploration-effects-main.zip"
+    "url": "https://github.com/silvative/pf2e-exploration-effects",
+	"manifest": "https://raw.githubusercontent.com/silvative/pf2e-exploration-effects/master/module.json",
+	"download": "https://github.com/silvative/pf2e-exploration-effects/archive/refs/heads/master.zip"
 }
