@@ -18,6 +18,14 @@
             "type": "Item"
         },
         {
+            "name": "aura-effects",
+            "label": "PF2E Aura Effects",
+            "path": "./packs/aura-effects.db",
+            "system": "pf2e",
+            "entity": "Item",
+            "type": "Item"
+        },
+        {
             "name": "exploration-macros",
             "label": "PF2E Exploration Macros",
             "path": "./packs/exploration-macros.db",
