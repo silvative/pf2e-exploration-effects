@@ -2,6 +2,8 @@
 
 The module requires the PF2E system and a Foundry version of V10 or higher. There is a V9 version but it is no longer having new features added.
 
+# Features
+
 ## Exploration Effects
 
 **How to use:**
@@ -41,7 +43,7 @@ A party exploring a dungeon, with effects showing their activities to the GM at 
 
 ![image](https://github.com/silvative/pf2e-exploration-effects/blob/documentation/Preview2.png)
 
-# Auras
+## Auras
 
 The module contains eight simple template auras with no automation to facilitate on-the-fly play. They measure 10, 20, 30, 40, 60, 80, 100, and 120 feet respectively. They can be added directly to the character, or via a ChoiceSet rule element on the Flexible Auras effect item that is also included.
 
@@ -49,6 +51,9 @@ I recommend dragging the Flexible Auras effect to your hotbar and using it to ac
 
 ![image](https://user-images.githubusercontent.com/66365038/197816950-6a202bff-8565-43d4-bfe1-b92ddb6d002d.png)
 
+## Macros
+
+The module contains a small number of additional macros. Some of these are used as quick toggles for generic light sources, while others are additional GM utilities, such as the ability to quickly open a specific compendium or "show artwork" on a creature.
 
 # Licensing and Credits:
 
