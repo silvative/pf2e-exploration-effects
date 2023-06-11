@@ -1,6 +1,6 @@
 # System compatability:
 
-The module requires the PF2E system and a Foundry version of V10 or higher. There is a V9 version but it is no longer having new features added.
+The module requires the PF2E system and a Foundry version of V9 or higher. It is recommended to use the module with V11 in order to access the latest features as prior versions are no longer actively developed or maintained and are kept available only for legacy purposes.
 
 # Features
 
