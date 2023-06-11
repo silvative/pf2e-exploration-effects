@@ -1,39 +1,67 @@
 {
-    "id": "pf2e-exploration-effects",
-    "title": "PF2E Exploration Effects",
-    "description": "Adds a compendium containing various macros and effects for tracking exploration for Pathfinder 2E.",
-    "version": "2.3.1",
-    "author": "Cora",
-    "compatibility": {
-        "minimum": "10",
-        "verified": "10"
+  "id": "pf2e-exploration-effects",
+  "title": "PF2E Exploration Effects",
+  "description": "Adds a compendium containing various macros and effects for tracking exploration for Pathfinder 2E.",
+  "version": "2.3.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "media": [
+    {
+        "type": "setup",
+        "caption": "Exploration Effects",
+        "thumbnail": "/modules/pf2e-exploration-effects/assets/ee-thumb.webp"
+    }],
+  "packs": [
+    {
+      "name": "exploration-effects",
+      "label": "PF2E Exploration Effects",
+      "path": "packs/exploration-effects.db",
+      "system": "pf2e",
+      "type": "Item",
+      "banner": "/modules/pf2e-exploration-effects/assets/ee-banner.webp",
+      "private": false,
+      "flags": {}
     },
-    "packs": [
-        {
-            "name": "exploration-effects",
-            "label": "PF2E Exploration Effects",
-            "path": "./packs/exploration-effects.db",
-            "system": "pf2e",
-            "entity": "Item",
-            "type": "Item"
-        },
-        {
-            "name": "aura-effects",
-            "label": "PF2E Aura Effects",
-            "path": "./packs/aura-effects.db",
-            "system": "pf2e",
-            "entity": "Item",
-            "type": "Item"
-        },
-        {
-            "name": "exploration-macros",
-            "label": "PF2E Exploration Macros",
-            "path": "./packs/exploration-macros.db",
-            "entity": "Macro",
-            "type": "Macro"
-        }
-    ],
-    "url": "https://github.com/silvative/pf2e-exploration-effects",
-	"manifest": "https://raw.githubusercontent.com/silvative/pf2e-exploration-effects/master/module.json",
-	"download": "https://github.com/silvative/pf2e-exploration-effects/archive/refs/heads/main.zip"
+    {
+      "name": "aura-effects",
+      "label": "PF2E Aura Effects",
+      "path": "packs/aura-effects.db",
+      "system": "pf2e",
+      "type": "Item",
+      "banner": "/modules/pf2e-exploration-effects/assets/ee-banner.webp",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "name": "exploration-macros",
+      "label": "PF2E Exploration Macros",
+      "path": "packs/exploration-macros.db",
+      "type": "Macro",
+      "banner": "/modules/pf2e-exploration-effects/assets/ee-banner.webp",
+      "private": false,
+      "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "PF2E Exploration Effects",
+      "sorting": "m",
+      "packs": [
+        "exploration-effects",
+        "aura-effects",
+        "exploration-macros"
+      ]
+    }
+  ],
+  "url": "https://github.com/silvative/pf2e-exploration-effects",
+  "manifest": "https://raw.githubusercontent.com/silvative/pf2e-exploration-effects/master/module.json",
+  "download": "https://github.com/silvative/pf2e-exploration-effects/archive/refs/heads/main.zip",
+  "authors": [
+    {
+      "name": "Cora",
+      "flags": {}
+    }
+  ]
 }
