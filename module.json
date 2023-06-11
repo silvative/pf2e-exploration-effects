@@ -1,37 +1,35 @@
 {
-    "id": "pf2e-exploration-effects",
-    "title": "PF2E Exploration Effects",
-    "description": "Adds a compendium containing various macros and effects for tracking exploration for Pathfinder 2E.",
-    "version": "3.0.0",
-    "authors": [
-        {
-            "name": "Cora"
-        }
-    ],
-    "compatibility": {
-        "minimum": "10",
-        "verified": "10"
+  "id": "pf2e-exploration-effects",
+  "title": "PF2E Exploration Effects",
+  "description": "Adds a compendium containing various macros and effects for tracking exploration for Pathfinder 2E.",
+  "version": "3.0.0",
+  "authors": [{
+          "name": "Cora"
+  }],
+  "compatibility": {
+      "minimum": "11",
+      "verified": "11"
   },
-  "media": [
-    {
+  "media": [{
         "type": "setup",
         "caption": "Exploration Effects",
         "thumbnail": "/modules/pf2e-exploration-effects/assets/ee-thumb.webp"
-    }],
+  }],
   "packs": [
     {
       "name": "exploration-effects",
       "label": "PF2E Exploration Effects",
-      "path": "packs/exploration-effects.db",
+      "path": "packs/exploration-effects",
       "system": "pf2e",
       "type": "Item",
       "banner": "/modules/pf2e-exploration-effects/assets/ee-banner.webp",
-      "private": fa
-          },
+      "private": false,
+      "flags": {}
+    },
     {
       "name": "aura-effects",
       "label": "PF2E Aura Effects",
-      "path": "packs/aura-effects.db",
+      "path": "packs/aura-effects",
       "system": "pf2e",
       "type": "Item",
       "banner": "/modules/pf2e-exploration-effects/assets/ee-banner.webp",
@@ -41,7 +39,7 @@
     {
       "name": "exploration-macros",
       "label": "PF2E Exploration Macros",
-      "path": "packs/exploration-macros.db",
+      "path": "packs/exploration-macros",
       "type": "Macro",
       "banner": "/modules/pf2e-exploration-effects/assets/ee-banner.webp",
       "private": false,
@@ -61,11 +59,5 @@
   ],
   "url": "https://github.com/silvative/pf2e-exploration-effects",
   "manifest": "https://raw.githubusercontent.com/silvative/pf2e-exploration-effects/master/module.json",
-  "download": "https://github.com/silvative/pf2e-exploration-effects/archive/refs/heads/main.zip",
-  "authors": [
-    {
-      "name": "Cora",
-      "flags": {}
-    }
-  ]
+  "download": "https://github.com/silvative/pf2e-exploration-effects/archive/refs/heads/main.zip"
 }
