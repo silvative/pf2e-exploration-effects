@@ -1,3 +1,10 @@
+Version 3.0.0
+
+- Breaking: Update manifest with minimum and verified V11 support and convert DB files to V11 format (this release is not compatible with V10 or V9)
+- Add thumbnail and banner images for module and compendium packs
+- Add a compendium folder for the module's packs
+- Update deprecated authors field (PR by brendan-mccoy)
+
 Version 2.3.1
 
 - Fix typo in choiceset rule element for the aura granter item
