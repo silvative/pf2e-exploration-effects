@@ -13,7 +13,7 @@
   "media": [{
         "type": "setup",
         "caption": "Exploration Effects",
-        "thumbnail": "/modules/pf2e-exploration-effects/assets/ee-thumb.webp"
+        "thumbnail": "modules/pf2e-exploration-effects/assets/ee-thumb.webp"
   }],
   "packs": [
     {
@@ -22,7 +22,7 @@
       "path": "packs/exploration-effects",
       "system": "pf2e",
       "type": "Item",
-      "banner": "/modules/pf2e-exploration-effects/assets/ee-banner.webp",
+      "banner": "modules/pf2e-exploration-effects/assets/ee-banner.webp",
       "private": false,
       "flags": {}
     },
@@ -32,7 +32,7 @@
       "path": "packs/aura-effects",
       "system": "pf2e",
       "type": "Item",
-      "banner": "/modules/pf2e-exploration-effects/assets/ee-banner.webp",
+      "banner": "modules/pf2e-exploration-effects/assets/ee-banner.webp",
       "private": false,
       "flags": {}
     },
@@ -41,7 +41,7 @@
       "label": "PF2E Exploration Macros",
       "path": "packs/exploration-macros",
       "type": "Macro",
-      "banner": "/modules/pf2e-exploration-effects/assets/ee-banner.webp",
+      "banner": "modules/pf2e-exploration-effects/assets/ee-banner.webp",
       "private": false,
       "flags": {}
     }
