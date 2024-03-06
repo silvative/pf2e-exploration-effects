@@ -1,3 +1,9 @@
+Version 3.0.1
+
+- Fixed a typo in the checkmaker macro
+- Fixed the thumbnail image filepaths for hosted users
+- Swapped manifest links on Foundry website admin page to hopefully fix installation of older versions of the module
+
 Version 3.0.0
 
 - Breaking: Update manifest with minimum and verified V11 support and convert DB files to V11 format (this release is not compatible with V10 or V9)
